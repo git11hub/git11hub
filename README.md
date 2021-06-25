@@ -1,5 +1,7 @@
 ## Hi there, I'm Zahid Rabbi 👋
 
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8e7bf23d682f0db4fddd88549ef958c222b2a8e007ddac99ca8250450cba1ce7/68747470733a2f2f692e6962622e636f2f6351474d4759572f556e7469746c65642d64657369676e2d312e676966"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8e7bf23d682f0db4fddd88549ef958c222b2a8e007ddac99ca8250450cba1ce7/68747470733a2f2f692e6962622e636f2f6351474d4759572f556e7469746c65642d64657369676e2d312e676966" data-canonical-src="https://i.ibb.co/cQGMGYW/Untitled-design-1.gif" style="max-width:100%;"></a></p>
+
 ### I'm a Good Listener, Thinker and Dreamer!!
 
 - 🌱 I’m currently learning frontend and backend
@@ -9,7 +11,7 @@
 
 ---
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/8e7bf23d682f0db4fddd88549ef958c222b2a8e007ddac99ca8250450cba1ce7/68747470733a2f2f692e6962622e636f2f6351474d4759572f556e7469746c65642d64657369676e2d312e676966"><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8e7bf23d682f0db4fddd88549ef958c222b2a8e007ddac99ca8250450cba1ce7/68747470733a2f2f692e6962622e636f2f6351474d4759572f556e7469746c65642d64657369676e2d312e676966" data-canonical-src="https://i.ibb.co/cQGMGYW/Untitled-design-1.gif" style="max-width:100%;"></a></p>
+
 
 ### Connect with me:
 
