@@ -4,10 +4,10 @@
 
 ### I'm a Good Listener, Thinker and Dreamer!!
 
-- 🌱 I’m currently learning frontend and backend
+- 🌱 I’m currently learning frontend, and backend
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: To be fluent with on frontend and backend technology
-- ⚡ Fun fact: I love to play flute / chess
+- 🥅 2021 Goals: To be fluent with frontend and backend technology
+- ⚡ Fun fact: I love to play flute/chess
 
 ---
 
